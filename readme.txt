@@ -4,7 +4,7 @@ Donate link: http://connections-pro.com/
 Tags: comment, comments, tinymce, rte
 Requires at least: 3.3
 Tested up to: 3.5
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,8 +15,8 @@ Replaces the default comment form with a rich text editor for logged in admins.
 This plugin has one purpose, replace the default comment field that just accepts plain text with a rich text editor similar to the one used when writing posts on admin accounts.
 
 Credit and inspiration for this plugin goes to:
-* (Renji)[http://sumtips.com/2012/12/add-rich-text-editor-wordpress-comment-form-without-plugin.html]
-* (Reuben)[http://www.revood.com/blog/adding-visual-editor-to-wordpress-comments-box-part-2/]
+* [Renji](http://sumtips.com/2012/12/add-rich-text-editor-wordpress-comment-form-without-plugin.html)
+* [Reuben](http://www.revood.com/blog/adding-visual-editor-to-wordpress-comments-box-part-2/)
 
 == Installation ==
 

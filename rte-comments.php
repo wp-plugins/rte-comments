@@ -3,7 +3,7 @@
 Plugin Name: RTE Comments
 Plugin URI: http://www.connections-pro.com
 Description: Add TinyMCE Rich Text Editor to WordPress Comments
-Version: 1.0.2
+Version: 1.0.3
 Author: Steven A. Zahm
 Author URI: http://www.connections-pro.com
 Text Domain: rte_comments
